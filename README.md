@@ -10,8 +10,7 @@ Currently exploring the game development process by taking online courses and le
 I also explore gaining skills from different fields such as graphic arts, film animation, music composition and sound design.
 "Ultimately my focus is to learn whatever I can while I am young"
 
-**Motto: 
-"THE GREATER THE GOAL THE HARDER THE OBSTACLE, THE HARDER THE OBSTACLE THE SWEETER THE VICTORY & WITH THAT I SHALL BRAVE THE UNKNOWN AND AIM FOR THE HIGHEST PEAK"**
+**"THE GREATER THE GOAL THE HARDER THE OBSTACLE, THE HARDER THE OBSTACLE THE SWEETER THE VICTORY & WITH THAT I SHALL BRAVE THE UNKNOWN AND AIM FOR THE HIGHEST PEAK"**
 
 <!--
 **D3c1pher/D3c1pher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
