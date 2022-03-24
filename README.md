@@ -2,7 +2,16 @@
 
 I am a computer engineering student working as a technical illustrator full-time. Though my current line of work is in the field of illustration and graphics, I still aspire to transition and build a career in video game development and/or computer programming. 
 
-For the longest time I've had a passion for the process of creating worlds in the medium of video games. The development process has always facinated from its importance of creative direction and its technicalities of establishing mechanics through the use of code.  
+For the longest time, I've had a passion for the process of creating worlds in the medium of video games. The development process has always been fascinating. From the importance of creative direction to its technicalities of establishing mechanics through the use of code. That love for video games eventually lead me to explore deeper and expand and that eventually lead me to immerse myself in the world of computers and the utilization computer languages for creating something beautiful.  
+
+### What I'm focusing on 💻
+
+Currently exploring the game development process by taking online courses and learning computer programming with the use of free resources. 
+I also explore gaining skills from different fields such as graphic arts, film animation, music composition and sound design.
+"Ultimately my focus is to learn whatever I can while I am young"
+
+**Motto: 
+"THE GREATER THE GOAL THE HARDER THE OBSTACLE, THE HARDER THE OBSTACLE THE SWEETER THE VICTORY & WITH THAT I SHALL BRAVE THE UNKNOWN AND AIM FOR THE HIGHEST PEAK"**
 
 <!--
 **D3c1pher/D3c1pher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
