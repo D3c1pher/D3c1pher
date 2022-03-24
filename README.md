@@ -1,4 +1,8 @@
-### Hello, I'm Norven 👋
+### Hello there, my name is Norven! 👋
+
+I am a computer engineering student working as a technical illustrator full-time. Though my current line of work is in the field of illustration and graphics, I still aspire to transition and build a career in video game development and/or computer programming. 
+
+For the longest time I've had a passion for the process of creating worlds in the medium of video games. The development process has always facinated from its importance of creative direction and its technicalities of establishing mechanics through the use of code.  
 
 <!--
 **D3c1pher/D3c1pher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
