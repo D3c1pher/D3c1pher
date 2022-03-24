@@ -2,7 +2,7 @@
 
 I am a computer engineering student working as a technical illustrator full-time. Though my current line of work is in the field of illustration and graphics, I still aspire to transition and build a career in video game development and/or computer programming. 
 
-For the longest time, I've had a passion for the process of creating worlds in the medium of video games. The development process has always been fascinating. From the importance of creative direction to its technicalities of establishing mechanics through the use of code. That love for video games eventually lead me to explore deeper and expand and that eventually lead me to immerse myself in the world of computers and the utilization of computer languages for creating something beautiful.  
+For the longest time, I've had a passion for the process of creating worlds in the medium of video games. The development process has always been fascinating. From the importance of creative direction to its technicalities of establishing mechanics through the use of code. That love for video games eventually lead me to explore deeper and expand; and that lead me to immerse myself in the world of computers and the utilization of computer languages for creating something beautiful.  
 
 ### What I'm focusing on 💻
 
