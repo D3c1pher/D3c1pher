@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d3c1pher_norven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3c1pher_norven" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/norven ephraim caracas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norven ephraim caracas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/norven-ephraim-caracas-03432915a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norven-ephraim-caracas-03432915a" height="30" width="40" /></a>
 <a href="https://instagram.com/d3c1pher_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d3c1pher_n" height="30" width="40" /></a>
 <a href="https://www.behance.net/d3c1pher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="d3c1pher" height="30" width="40" /></a>
 </p>
