@@ -10,7 +10,7 @@
 **norven.caracas@gmail.com**
 
 - 📄 Know about my experiences:
-[*will update soon*]
+**[*will update soon*]**
 
 - ⚡ Fun fact:
 **The reason I wanted to become a 'Game Developer' is because I love 'Tech, Art, Animation and Music Production'; and wanted to do it all in one. 😅**
