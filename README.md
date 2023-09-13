@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
-- 🌱 I’m currently learning **CS50 & Unity w/ C# Programming**
+- 🌱 I’m currently learning: 
+**CS50 & Unity w/ C# Programming**
 
-- 📫 How to reach me **norven.caracas@gmail.com**
+- 📫 How to reach me: 
+**norven.caracas@gmail.com**
 
-- 📄 Know about my experiences [*will update soon*]
+- 📄 Know about my experiences:
+[*will update soon*]
 
-- ⚡ Fun fact **The reason I wanted to become a 'Game Developer' is because I love 'Tech, Art, Animation and Music Production'; and wanted to do it all in one. 😅**
+- ⚡ Fun fact:
+**The reason I wanted to become a 'Game Developer' is because I love 'Tech, Art, Animation and Music Production'; and wanted to do it all in one. 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
