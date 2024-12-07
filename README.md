@@ -1,17 +1,17 @@
 <h1 align="center">Heylo! 👋, I'm Norven Ephraim Caracas</h1>
-<h3 align="center">A Web Development Enthusiast from the Philippines</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
-- 🔭 I’m currently working on **Frontend Mentor Projects** as practice
+- 🔭 I’m currently working on **Ecommerce Sites** as practice
 
-- 🌱 I’m currently learning/reviewing **TypeScript, HTML, CSS & React.js**
+- 🌱 I’m currently learning **Next JS 15**
 
-- 💬 Ask me about **Anything related to MERN Stack and related technologies**
+- 💬 Ask me about **Anything related to Web Development and related technologies**
 
 - 📫 How to reach me **norven.caracas@gmail.com**
 
-- ⚡ Fun fact **I love musicals and animations.**
+- ⚡ Fun fact **I enjoy being creative while being technically savvy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
