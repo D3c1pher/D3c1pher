@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Sites** as practice
+- 🔭 I’m currently working on a **School Public and Portal Website plus API**
 
-- 🌱 I’m currently learning **Next JS 15**
+- 🌱 I’m currently learning **System Design Concepts**
 
-- 💬 Ask me about **Anything related to Web Development and related technologies**
+- 💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript related Technologies**
 
 - 📫 How to reach me **norven.caracas@gmail.com**
 
