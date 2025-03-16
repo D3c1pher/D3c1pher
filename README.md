@@ -1,7 +1,7 @@
 <h1 align="center">Heylo! 👋, I'm Norven Ephraim Caracas</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
 # 💫 ABOUT ME:
 🔭 I’m currently working on a **School Public and Portal Website plus API**<br>🌱 I’m currently learning **System Design Concepts**<br>💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>📫 How to reach me **norven.caracas@gmail.com**<br>⚡ Fun fact **I enjoy being creative while being technically savvy**
