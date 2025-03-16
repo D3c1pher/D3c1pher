@@ -35,10 +35,10 @@
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=D3c1pher&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ RANDOM DEV QUOTES
+## ✍️ RANDOM DEV QUOTES
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 TOP CONTRIBUTED REPO
+## 🔝 TOP CONTRIBUTED REPO
 ![](https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
