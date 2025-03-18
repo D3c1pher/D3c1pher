@@ -4,7 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
 # 💫 ABOUT ME:
-🔭 I’m currently working on a **School Public and Portal Website plus API**<br>🌱 I’m currently learning **System Design Concepts**<br>💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>📫 How to reach me **norven.caracas@gmail.com**<br>⚡ Fun fact **I enjoy being creative while being technically savvy**
+🔭 I’m currently working on a **School Public and Portal Website plus API**<br>
+🌱 I’m currently learning **System Design Concepts, CI/CD & AWS**<br>
+💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>
+📫 How to reach me **norven.caracas@gmail.com**<br>
+⚡ Fun fact **I enjoy being creative while being technically savvy**
 
 ## 🌐 SOCIALS:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/d3c1pher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/norven-ephraim-caracas-03432915a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:norven.caracas@gmail.com) 
