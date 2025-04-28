@@ -5,7 +5,7 @@
 
 # 💫 ABOUT ME:
 🔭 I’m currently working on an **Ecosystem of Self-Improvement Apps**<br>
-🌱 I’m currently learning **System Design Concepts, CI/CD & AWS**<br>
+🌱 I’m currently learning **Product Design (UX/UI), System Design Concepts, CI/CD**<br>
 💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>
 📫 How to reach me **norven.caracas@gmail.com**<br>
 ⚡ Fun fact **I’m building a fitness app so I can pretend my gains are scalable 🫠**
