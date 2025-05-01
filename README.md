@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
 # 💫 ABOUT ME:
-🔭 I’m currently working on an **Ecosystem of Self-Improvement Apps**<br>
+🔭 I’m currently working on a **Public School Site**<br>
 🌱 I’m currently learning **Product Design (UX/UI), System Design Concepts, CI/CD**<br>
 💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>
 📫 How to reach me **norven.caracas@gmail.com**<br>
