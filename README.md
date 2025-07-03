@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
 # 💫 ABOUT ME:
-🔭 I’m currently working on a **Public School Site**<br>
-🌱 I’m currently learning **Product Design (UX/UI), System Design Concepts, CI/CD**<br>
-💬 Ask me about **Anything related to Web Development, especially JavaScript/TypeScript Technologies**<br>
+🔭 I’m currently working on a **Multiplayer Action Role-Playing Game**<br>
+🌱 I’m currently learning **Unreal Engine Gameplay Ability System**<br>
+💬 Ask me about **Anything related to Game Development and Web Development**<br>
 📫 How to reach me **norven.caracas@gmail.com**<br>
 ⚡ Fun fact **I’m building a fitness app so I can pretend my gains are scalable 🫠**
 
