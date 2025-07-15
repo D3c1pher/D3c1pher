@@ -119,19 +119,19 @@
 
 <h2 align="left">📊 STATS:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3c1pher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=D3c1pher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3c1pher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=D3c1pher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=D3c1pher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3c1pher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 <h2 align="left">🏆 TROPHIES:</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
 </div>
 
 <h2 align="left">💬 RANDOM DEV QUOTES:</h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="120" alt="quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
 </div>
 
 <h2 align="left">🗃️ CONTRIBUTIONS:</h2>
