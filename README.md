@@ -136,8 +136,8 @@
 
 <h2 align="left">🗃️ CONTRIBUTIONS:</h2>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="120" alt="contributor-stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="120" alt="activity-graph graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="contributor-stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph" />
 </div>
 
 <br clear="both">
