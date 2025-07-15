@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
-###
-
 <br clear="both">
 
 <h2 align="left">💻 ABOUT ME:</h2>
