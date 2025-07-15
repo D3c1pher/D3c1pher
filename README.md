@@ -2,7 +2,7 @@
 <h3 align="center">🕹️ GAME DEVELOPER & DESIGNER 🎨</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=D3c1pher.D3c1pher&"  />
+  <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" />
 </div>
 
 <br clear="both">
