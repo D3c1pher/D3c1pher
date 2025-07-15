@@ -133,19 +133,21 @@
   <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-## ✍️ RANDOM DEV QUOTES
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <h2 align="left">📒 CONTRIBUTIONS:</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="contributor-stats"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="300" alt="contributor-stats"  />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
+
+## ✍️ RANDOM DEV QUOTES
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D3c1pher&icon=0&color=10)](https://visitcount.itsvg.in)
