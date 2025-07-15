@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" />
 </div>
 
+<br clear="both">
+
 <h2 align="left">💻 ABOUT ME:</h2>
 <img align="right" height="180" src="https://scontent.fceb1-2.fna.fbcdn.net/v/t1.6435-9/92708010_10213252350022748_4629677254178242560_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFRkF1UhGiGsWvfOMJEL2X6BA1Cz2NGt7UEDULPY0a3tUMC-oQiaGrF6zdRmrqb06A&_nc_ohc=BTo35-xO4b8Q7kNvwFo0rJo&_nc_oc=Adk_DP-CK7HWb248dFQH9oFrCwPIww8NTcTamevZJn1cCw2DkGTBJOr_-nCy-s4Cyag&_nc_zt=23&_nc_ht=scontent.fceb1-2.fna&_nc_gid=5X-IXhbNeIAXkWxa3yYqXw&oh=00_AfSmZJgNRYoJMPlXvjem8gQM_XVvD6n6OLZpaPrYDebWKw&oe=689DBF06"  />
 <p align="left">
@@ -63,6 +65,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="41" alt="inkscape logo"  />
 </div>
 
+<br clear="both">
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -94,6 +98,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="42" alt="amazonwebservices logo"  />
