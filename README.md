@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="41" alt="unity logo"  />
@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="41" alt="inkscape logo"  />
 </div>
 
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -99,7 +99,7 @@
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="42" alt="amazonwebservices logo"  />
@@ -117,24 +117,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="42" alt="insomnia logo"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">📊 STATS:</h2>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=D3c1pher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=D3c1pher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3c1pher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">🏆 TROPHIES:</h2>
-
-###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -142,8 +136,16 @@
 ## ✍️ RANDOM DEV QUOTES
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 TOP CONTRIBUTED REPO
+<h2 align="left">📒 CONTRIBUTIONS:</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="contributor-stats"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D3c1pher&icon=0&color=10)](https://visitcount.itsvg.in)
