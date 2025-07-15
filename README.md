@@ -1,7 +1,9 @@
 <h1 align="center">Heylo! 👋, I'm Norven Ephraim Caracas</h1>
 <h3 align="center">🕹️ GAME DEVELOPER & DESIGNER 🎨</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=D3c1pher.D3c1pher&"  />
+</div>
 
 <br clear="both">
 <h2 align="left">💻 ABOUT ME:</h2>
