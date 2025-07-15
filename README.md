@@ -143,6 +143,9 @@
 </div>
 
 <h2 align="left">💬 RANDOM DEV QUOTES:</h2>
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
