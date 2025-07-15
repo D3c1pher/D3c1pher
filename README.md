@@ -147,6 +147,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="200" alt="contributor-stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph" />
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph.svg">
