@@ -134,20 +134,23 @@
   <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h2 align="left">🗃️ CONTRIBUTIONS:</h2>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="300" alt="contributor-stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-
 <h2 align="left">💬 RANDOM DEV QUOTES:</h2>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="left">🗃️ CONTRIBUTIONS:</h2>
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="300" alt="contributor-stats" />
+</div>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D3c1pher&icon=0&color=10)](https://visitcount.itsvg.in)
