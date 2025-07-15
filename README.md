@@ -16,6 +16,8 @@
   ⚡ Fun fact <b>I like things that are scary or funny, ideally both — which is why I love REPO. Would love to make that kind of horror game one day. 🙏</b>
 </p>
 
+<br clear="both">
+
 <div align="center">
   <a href="norven.caracas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -36,6 +38,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="41" alt="unity logo"  />
