@@ -1,6 +1,5 @@
 <h1 align="center">Heylo! 👋, I'm Norven Ephraim Caracas</h1>
 <h3 align="center">🕹️ GAME DEVELOPER & DESIGNER 🎨</h3>
-<p align="center">🧠 Creative Coder - Bridging Code & Design 🧩</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3c1pher&label=Profile%20views&color=0e75b6&style=flat" alt="d3c1pher" /> </p>
 
@@ -8,13 +7,16 @@
 
 <h2 align="left">💻 ABOUT ME:</h2>
 
-###
-
 <img align="right" height="180" src="https://scontent.fceb1-2.fna.fbcdn.net/v/t1.6435-9/92708010_10213252350022748_4629677254178242560_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFRkF1UhGiGsWvfOMJEL2X6BA1Cz2NGt7UEDULPY0a3tUMC-oQiaGrF6zdRmrqb06A&_nc_ohc=BTo35-xO4b8Q7kNvwFo0rJo&_nc_oc=Adk_DP-CK7HWb248dFQH9oFrCwPIww8NTcTamevZJn1cCw2DkGTBJOr_-nCy-s4Cyag&_nc_zt=23&_nc_ht=scontent.fceb1-2.fna&_nc_gid=5X-IXhbNeIAXkWxa3yYqXw&oh=00_AfSmZJgNRYoJMPlXvjem8gQM_XVvD6n6OLZpaPrYDebWKw&oe=689DBF06"  />
 
-###
-
-<p align="left">🔭 I’m currently working on a Base Management Defense Eldritch Horror Game<br>🌱 I’m currently learning Unreal Engine Gameplay Ability System<br>💬 Ask me about Anything related to Game Development and Web Development<br>📫 How to reach me norven.caracas@gmail.com<br>⚡ Fun fact I like things that are scary or funny, ideally both — which is why I love REPO. Would love to make that kind of horror game one day. 🙏</p>
+<p align="left">
+  🧠 Creative Coder - Bridging Code & Design 🧩<br>
+  🔭 I’m currently working on a Base Management Defense Eldritch Horror Game<be>
+  🌱 I’m currently learning Unreal Engine Gameplay Ability System<br>
+  💬 Ask me about Anything related to Game Development and Web Development<be>
+  📫 How to reach me norven.caracas@gmail.com<br>
+  ⚡ Fun fact I like things that are scary or funny, ideally both — which is why I love REPO. Would love to make that kind of horror game one day. 🙏
+</p>
 
 ###
 
