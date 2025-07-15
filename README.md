@@ -140,6 +140,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph" />
 </div>
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3c1pher/D3c1pher/output/pacman-contribution-graph.svg">
@@ -147,4 +149,5 @@
 </picture>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=D3c1pher&icon=0&color=10)](https://visitcount.itsvg.in)
