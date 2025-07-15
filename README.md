@@ -131,7 +131,7 @@
 
 <h2 align="left">💬 RANDOM DEV QUOTES:</h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="120" alt="quotes" />
 </div>
 
 <h2 align="left">🗃️ CONTRIBUTIONS:</h2>
