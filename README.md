@@ -1,4 +1,4 @@
-<h1 align="center">Heylo! 👋, I'm Norven Ephraim Caracas</h1>
+<h1 align="center">Heylo! 👋, I'm Norven 'Inspired Weaver' Caracas</h1>
 <h3 align="center">🕹️ WEB DEVELOPER BY DAY | GAME DEVELOPER BY NIGHT 🎨</h3>
 
 <div align="center">
@@ -86,23 +86,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="42" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="42" alt="amazondynamodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
   <img width="12" />
@@ -110,7 +100,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="42" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="42" alt="insomnia logo"  />
 </div>
 
 <h2 align="left">📊 STATS:</h2>
