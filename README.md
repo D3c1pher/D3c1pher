@@ -56,8 +56,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="41" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="41" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="41" alt="inkscape logo"  />
 </div>
 
