@@ -46,10 +46,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="41" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="41" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="41" alt="godot logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="41" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="41" alt="cplusplus logo"  />
