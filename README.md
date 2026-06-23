@@ -48,13 +48,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="41" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="41" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="41" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="41" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="41" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="41" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="41" alt="inkscape logo"  />
 </div>
