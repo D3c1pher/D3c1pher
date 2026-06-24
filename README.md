@@ -42,37 +42,45 @@
 <br>
 
 <div align="center">
-  <p>
-    <b>🎮 Game Development:</b>&nbsp;
-    <img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo" />
-    <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
-    <img src="https://cdn.simpleicons.org/aseprite/7D929E" height="35" alt="aseprite logo" />
-  </p>
-  <p>
-    <b>🌐 Web Development:</b>&nbsp;
-    <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
-    <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
-    <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-    <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-    <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
-    <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
-    <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="35" alt="codeigniter logo" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
-    <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo" />
-    <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
-  </p>
-  <p>
-    <b>🎨 Multimedia:</b>&nbsp;
-    <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
-    <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo" />
-  </p>
+<table cellpadding="6">
+  <tr>
+    <td align="left" valign="middle">
+      <b>🎮 Game Development:</b>&nbsp;
+      <img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo" />
+      <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
+      <img src="https://cdn.simpleicons.org/aseprite/7D929E" height="35" alt="aseprite logo" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>🌐 Web Development:</b>&nbsp;
+      <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
+      <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
+      <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
+      <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
+      <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
+      <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="35" alt="codeigniter logo" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo" />
+      <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>🎨 Multimedia:</b>&nbsp;
+      <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
+      <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align="left">📊 STATS:</h2>
