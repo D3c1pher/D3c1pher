@@ -82,12 +82,6 @@
       <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
       <img width="8" />
       <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" />
-      <br/>
-      <img src="https://cdn.simpleicons.org/adobeanimate" height="40" alt="adobe animate logo" />
-      <img width="8" />
-      <img src="https://cdn.simpleicons.org/affinity" height="40" alt="affinity logo" />
-      <br/>
-      <img src="https://cdn.simpleicons.org/krita" height="40" alt="krita logo" />
     </td>
   </tr>
 </table>
