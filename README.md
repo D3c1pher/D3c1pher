@@ -39,7 +39,10 @@
 
 <br clear="both">
 
-<table>
+<br>
+
+<div align="center">
+<table cellpadding="8" cellspacing="0">
   <tr>
     <td width="25%" align="center" valign="top">
       <h3>🎮 GameDev</h3>
@@ -49,38 +52,46 @@
     </td>
     <td width="25%" align="center" valign="top">
       <h3>🌐 WebDev</h3>
-      <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
-      <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
+      <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-      <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-      <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
+      <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
+      <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo" />
+      <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-      <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
-      <img src="https://skillicons.dev/icons?i=jest" height="35" alt="jest logo" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-      <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo" />
+      <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
+      <img src="https://skillicons.dev/icons?i=jest" height="32" alt="jest logo" />
+      <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo" />
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="32" alt="codeigniter logo" />
     </td>
     <td width="25%" align="center" valign="top">
-      <h3>☁️ DevOps</h3>
+      <h3>☁️ DevOps & Data</h3>
       <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
       <img width="8" />
       <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
     </td>
     <td width="25%" align="center" valign="top">
       <h3>🎨 Multimedia</h3>
-      <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
-      <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
-      <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo" />
+      <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo" />
+      <img src="https://skillicons.dev/icons?i=ps" height="32" alt="adobephotoshop logo" />
+      <img src="https://skillicons.dev/icons?i=ai" height="32" alt="adobeillustrator logo" />
       <br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="35" alt="inkscape logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="32" alt="inkscape logo" />
+      <img src="https://cdn.simpleicons.org/aseprite/7D929E" height="32" alt="aseprite logo" />
     </td>
   </tr>
 </table>
+</div>
 
 <h2 align="left">📊 STATS:</h2>
 <div align="center">
