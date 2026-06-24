@@ -42,18 +42,18 @@
 <br>
 
 <div align="center">
-<table cellpadding="6">
+<table cellpadding="10">
   <tr>
-    <td align="left" valign="middle">
-      <b>🎮 Game Development:</b>&nbsp;
+    <td width="33%" align="center" valign="top">
+      <span style="font-size: 45px;">🎮</span>
+      <br/>
       <img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo" />
       <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo" />
       <img src="https://cdn.simpleicons.org/aseprite/7D929E" height="35" alt="aseprite logo" />
     </td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle">
-      <b>🌐 Web Development:</b>&nbsp;
+    <td width="33%" align="center" valign="top">
+      <span style="font-size: 45px;">🌐</span>
+      <br/>
       <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
       <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
       <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
@@ -72,10 +72,9 @@
       <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo" />
       <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
     </td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle">
-      <b>🎨 Multimedia:</b>&nbsp;
+    <td width="33%" align="center" valign="top">
+      <span style="font-size: 45px;">🎨</span>
+      <br/>
       <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
       <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo" />
     </td>
