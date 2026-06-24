@@ -94,11 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3c1pher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-<h2 align="left">💬 RANDOM DEV QUOTES:</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
-</div>
-
 <h2 align="left">🗃️ CONTRIBUTIONS:</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph" />
