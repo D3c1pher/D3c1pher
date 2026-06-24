@@ -94,11 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3c1pher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-<h2 align="left">🏆 TROPHIES:</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=D3c1pher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
-</div>
-
 <h2 align="left">💬 RANDOM DEV QUOTES:</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes" />
@@ -106,7 +101,6 @@
 
 <h2 align="left">🗃️ CONTRIBUTIONS:</h2>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=D3c1pher&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="contributor-stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3c1pher&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph" />
 </div>
 
